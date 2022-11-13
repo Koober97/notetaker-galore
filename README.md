@@ -20,6 +20,6 @@
 
 ## Deployed Link
 
-- ![Heroku](https://notetaker-galore.herokuapp.com/)
+- Link to ![Heroku](https://notetaker-galore.herokuapp.com/)
 
 ### Created by Brian Koo
